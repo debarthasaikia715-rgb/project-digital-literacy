@@ -1,2 +1,70 @@
-# project-digital-literacy
-https://1drv.ms/w/c/163DAB67881DC294/IQD8VhoZ3llsQ7u17k1hXVzKAS3ufbAGSvuUy0Jh8pcdViA?e=8Lzb1w
+# CSE0001 – Digital Literacy Project
+
+| Field | Details |
+|-------|---------|
+| **Name** | Debartha Saikia |
+| **Reg. No.** | 25BOE10082 |
+| **Branch** | B.Tech Bio Engineering |
+| **Year** | 1st Year (Batch 2029) |
+| **Course** | CSE0001 – Digital Literacy |
+
+---
+
+## Project Overview
+
+This repository contains my Digital Literacy Portfolio for CSE0001. As part of the Student Digital Ambassador scenario, I have completed five tasks covering infographic design, professional digital profiles, coding and collaboration platforms, email etiquette, and cybercrime awareness.
+
+---
+
+## Module Summaries
+
+| Task | Module | Description | Marks |
+|------|--------|-------------|-------|
+| Task 1 | Module 1 | Digital Literacy Awareness Infographic (Canva) | 20 |
+| Task 2 | Module 2 | Student Digital Portfolio – GitHub, LinkedIn, ResearchGate | 20 |
+| Task 3 | Module 3 | Coding Platform (HackerRank) + Google Form Quiz | 20 |
+| Task 4 | Module 4 | Professional Email Drafts + Social Media Checklist | 20 |
+| Task 5 | Module 5 | Cybercrime Case Study + Prevention Checklist | 20 |
+
+---
+
+## Repository Structure
+```
+.
+├── Project_Report.docx
+├── README.md
+├── task-1-presentation
+│   ├── canva infographic.png
+│   └── reflections.md
+├── task-2-portfolio
+│   ├── github profile.png
+│   ├── linkedin profile.png
+│   ├── Researchgate.png
+│   └── reflections.md
+├── task-3-platforms
+│   ├── hackerrank profile.png
+│   ├── hackerrank solved problem.png
+│   ├── form excel.png
+│   ├── form.png
+│   └── reflections.md
+├── task-4-email-etiquette
+│   ├── emails.md
+│   └── social-media-checklist.md
+└── task-5-cybercrime
+    ├── casestudy.md
+    └── prevention-checklist.md
+```
+---
+
+## Links
+
+- **GitHub Profile:** https://github.com/debarthasaikia715-rgb
+- **LinkedIn:** https://https://www.linkedin.com/in/debartha-saikia
+- **ResearchGate:** https://www.researchgate.net/profile/Debartha-Saikia
+- **Digital Literacy Quiz (Google Form):** *https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform*
+
+---
+
+## Academic Integrity
+`
+All write-ups are in my own words. Screenshots are of my own accounts. External sources are cited in the report references section.
