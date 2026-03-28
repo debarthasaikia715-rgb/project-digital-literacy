@@ -19,4 +19,4 @@ A one-page Digital Literacy Awareness Infographic created using Canva. The infog
 
 | File | Description |
 |------|-------------|
-| `canva infographic.jpg` | Exported final infographic |
+| `canva infographic.png` | Exported final infographic |
